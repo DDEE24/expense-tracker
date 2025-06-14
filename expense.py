@@ -5,7 +5,3 @@ class Expense:
         self.category = category
         self.amount = amount
 
-    def candy():
-        print("hello oop")
-
-    candy()
